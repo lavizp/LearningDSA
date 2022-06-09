@@ -1,10 +1,12 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Basics
 {
     class AdvancedDataTypes
     {
-        static void Main(string[] args)
+        public void AdvancedData()
         {
             int numberOfObjectsinArray = 2;
             int[] myArray = new int[numberOfObjectsinArray];

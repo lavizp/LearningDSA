@@ -4,7 +4,7 @@ namespace Basics
 {
     class DataTypes
     {
-        static void Main(string[] args)
+        public void DataTypes()
         {
             int myInteger = 5; //Whole numbers
             double myDouble = 1.22D; //stores fractions upto 15 decimal digits
