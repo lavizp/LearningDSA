@@ -15,4 +15,4 @@ var countPoints = function(rings) {
     return answer;
 };
 
-console.log(countPoints("B0B6G0R6R0R69"));
+console.log(countPoints("B0B6G0R6R0R69")); 
